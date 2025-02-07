@@ -2,7 +2,7 @@
 <html lang="eng">
 	<head>
 	    <meta charset="utf-8">
-	    <title> Javier Gonzalez </title> 
+	    <title>Javier Gonzalez</title> 
     </head>
 	<body>
 	<h1>Javier Gonzalez</h1>  
